@@ -71,7 +71,7 @@
         },
         "UPSTREAM_REPO": {
             "description": "Jika Anda tidak tahu ini, Biarkan apa adanya atau di /skip",
-            "value": "https://github.com/muhammadrizky16/KyyMusic",
+            "value": "https://github.com/akunbot78/KyyMusic",
             "required": true
         },
         "UPSTREAM_BRANCH": {
